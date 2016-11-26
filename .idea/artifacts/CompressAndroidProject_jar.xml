@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CompressAndroidProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CompressAndroidProject_jar</output-path>
+    <root id="archive" name="CompressAndroidProject.jar">
+      <element id="module-output" name="CompressAndroidProject" />
+    </root>
+  </artifact>
+</component>
